@@ -1,0 +1,33 @@
+.img-width img{
+    width: 70%;
+}
+.img4{
+    margin-top: -435px;
+    margin-left: 15px;
+    width: 65% !important;
+}
+.card-config p,h5{
+    margin-left: -15px;
+}
+.card-config img{
+    background-color: lightgray;
+    border-radius: 5%;
+}
+.card-config{
+    border: none;       
+}
+.card-config h3{
+    color: #76C27E;
+}
+.bg-color{
+    background-color:#FFFFF4 ;    
+}
+
+/* icon section  */
+.icon-size img{
+    width: 100%;
+}
+
+.img-2-width img{
+    width: 100%;
+}
