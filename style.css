@@ -31,3 +31,32 @@
 .img-2-width img{
     width: 100%;
 }
+
+.extra-secton i{
+    font-size: 400%;    
+}
+.extra-secton{
+    background-color: #7de687a8;    
+}
+
+.extra-secton-ico1{
+    color: rgb(255, 102, 0);    
+}
+.extra-secton-ico2{
+    color: rgb(235, 202, 15);
+}
+.extra-secton-ico3{
+    color: rgb(31, 31, 160);
+}
+.extra-secton-ico4{
+    color: red;
+}
+.extra-secton p{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    padding: 2%;
+    margin-top: 300px;
+}
